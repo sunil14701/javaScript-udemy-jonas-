@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 console.log("lecture 003");//functions
 
 // functions - a variable can hold one line of code but a function can hold a more line of code.

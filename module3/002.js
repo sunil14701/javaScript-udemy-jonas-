@@ -1,7 +1,7 @@
 'use strict';//block bug in our code. use it in every program
 console.log("lecture 002");//activitaing strict mode
 
-let hasDrivingLisence = false;
+let hasDrivingLisence = true;
 const passTest = true;
 
 //use of strict mode
