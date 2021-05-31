@@ -1,9 +1,9 @@
-console.log("lecture 18");
+console.log("lecture 18");//boolean logic
 
 const hasDriverLicense = true;
 const hasGoodVision = true;
 
-// console.log(hasDriverLicense&&hasGoodVision);
+console.log(hasDriverLicense&&hasGoodVision);
 const canDrive = hasGoodVision&&hasDriverLicense;
 if(canDrive){
     console.log("yes you can drive");

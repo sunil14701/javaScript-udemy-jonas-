@@ -4,7 +4,7 @@ let js = "amaz";
 console.log(20+56+78-56);
 console.log("jonas");
 console.log(23);
-// let firstNmame = "Jons";
+let firstNmame = "Jonas";
 console.log(firstNmame);
 console.log(firstNmame);
 console.log(firstNmame);

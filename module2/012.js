@@ -1,4 +1,4 @@
-console.log("lecture 12");
+console.log("lecture 12");//strings and template literals
 
 const firstName = 'jonas';
 let job = 'student ';
@@ -12,7 +12,7 @@ console.log(jonas);
 let jonas2 = `i'm ${firstName} , a ${job} . i'm ${currentYear-birthYear} year old`;
 console.log(jonas2);
 
-//multiline string
+//multiline string and use of backquotes
 console.log(`h
 w
 e

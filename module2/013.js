@@ -1,4 +1,4 @@
-console.log("lecture 013");
+console.log("lecture 013");//taking decisions if-else statement
 
 let age = 14;
 let isOldEnough = age>=18;

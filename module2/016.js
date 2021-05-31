@@ -1,4 +1,4 @@
-console.log("lecture 16");
+console.log("lecture 16");//truthy anf false values
 
 // five faulty values :  0,'',undefined,null,NaN
 // this above 5 values will be convered into false when we convert them into boolean
@@ -10,7 +10,7 @@ console.log(Boolean(0));
 console.log(Boolean(undefined));
 console.log(Boolean('jonas'));
 console.log(Boolean(''));
-console.log(Boolean({}));
+console.log(Boolean({}));//objects
 
 let money = 1;
 if(money){

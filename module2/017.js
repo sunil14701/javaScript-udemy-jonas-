@@ -1,9 +1,9 @@
-console.log("lecture 17");
+console.log("lecture 17");//equality operator == VS ===
 
 let age  = 18;
-if(age===18) console.log("congratualations you are now an adult");//it does not perform type coercion . and it return true when both values are exactly the same. Strictly
+if(age===18) console.log("congratulations you are now an adult");//it does not perform type coercion . and it return true when both values are exactly the same. (Strictly)
 
-if(age=='18') console.log("yay! you are good");//it performs type coersion 
+if(age=='18') console.log("yay! you are good");//it performs type coersion .
 
 
 const favNum = Number(prompt("what's your favourite number ? "));
@@ -14,8 +14,8 @@ if(favNum===23){
 }else if(favNum!==7){
     console.log("you have selected 7");
 }
-// else{
-//     console.log("you have selectd wrong number");
-// }
+else{
+    console.log("you have selectd wrong number");
+}
 
 // always use strict version in compariosion
