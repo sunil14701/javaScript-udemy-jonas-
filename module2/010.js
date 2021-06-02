@@ -10,3 +10,5 @@ x=y=20-1-2-3-0;//giving two variable single values
 console.log(x,y);
 const averageAge  = (sunilAge + rajatAge)/2;
 console.log(averageAge);
+
+//check mdn precidence website

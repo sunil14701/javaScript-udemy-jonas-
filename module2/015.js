@@ -25,3 +25,12 @@ console.log(n);
 
 // 2 + 3 +'5' = 55
 // '10' -'4'-'3'-2+'5' = 15//for addition numbers are converted into strings
+
+//type conversion
+// manually conversion from one type to another
+
+//type coercion
+//when js convert one type to another automatically
+
+//Number+string = string
+//js mein '1' +1 = 11 hota hai

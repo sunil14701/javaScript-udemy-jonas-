@@ -12,7 +12,7 @@ console.log(jonas);
 let jonas2 = `i'm ${firstName} , a ${job} . i'm ${currentYear-birthYear} year old`;
 console.log(jonas2);
 
-//multiline string and use of backquotes
+//multiline string and use of backticks
 console.log(`h
 w
 e

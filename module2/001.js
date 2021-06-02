@@ -1,3 +1,7 @@
+console.log("lecture 001");//section intro
+
+
+
 let js = "amaz";
 // if (js==="amaz") alert("i freeed this course"); //popup on window
 
