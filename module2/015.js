@@ -15,7 +15,7 @@ console.log("i am " + 23 + " year old");//computer automatically convert number(
 console.log(`i am ${23} year old`);//use of string literals
 console.log('23' + '5' + 1);//numbers are converted into string. only for addition case.
 console.log('23' - '5' - 1);//strings are auto converted into numbers
-console.log('12' / '4');//strings are connverted into numbers
+console.log('12' / '4');//strings are converted into numbers
 console.log('23'*3);//strings are connverted into numbers
 console.log('34' > '2');
 
@@ -30,7 +30,7 @@ console.log(n);
 // manually conversion from one type to another
 
 //type coercion
-//when js convert one type to another automatically
+//when js convert from one type to another automatically
 
-//Number+string = string
+//Number+string = string(number will be converted into string)
 //js mein '1' +1 = 11 hota hai

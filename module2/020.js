@@ -1,5 +1,5 @@
 console.log("lecture 20");
-//                          coding challange 3
+//                          coding challange  #3
 console.log("Case1");
 let dolphinScore1 = 96;
 let dolphinScore2 = 108;

@@ -1,6 +1,6 @@
-console.log("lecture 24");//coding challange 4 
+console.log("lecture #24");//coding challange #4 
 
-//use of if-else is probiheted
+//use of if-else is probihited
 let bill = 275;
 let tip;
 console.log(`your bill is ${bill} and your tip is ${(bill>50 && bill<300) ? (tip=bill*0.15):(tip=bill*.2) }, so your total bill is ${bill+tip}`);

@@ -18,6 +18,5 @@ if (23>45) {
 }
 
 //In template literals statments are not allowed but expressions are 
-// console.log(`hello ${me} ${if (23>45) {
-//     console.log("aya");
-// }}`);
+console.log(`hello ${me}
+                     ${  if (23>45) console.log("aya");  }`);

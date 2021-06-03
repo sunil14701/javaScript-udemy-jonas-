@@ -9,7 +9,7 @@ if (isOldEnough) {
 else {
     console.log(`you are ${age} year old so you can not drive 🤣🤣🤣. `);
     let yearsLeft = 18 - age;
-    console.log(`you are too young .  so come after ${yearsLeft} years 😂5🤣`);
+    console.log(`you are too young .  so come after ${yearsLeft} years 😂🤣`);
 }
 
 let birthYear = 1999;
@@ -23,6 +23,5 @@ if (birthYear < 2000) {
 
 }
 
-
 //for emoji : press (windows + .)
-//press insert for terminal in vs code
+//press insert for terminal in vs code and also press numlock

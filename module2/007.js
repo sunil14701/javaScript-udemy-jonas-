@@ -12,7 +12,7 @@ there are 7 primitive datatype-
                      (B) decision making
 
         4. undefined  - (A) variable with empty value
-                        (B) value taken by a variable that is not yet defined(empty value).
+                        (B) value taken by a variable that is not yet defined(empty value).eg-declaring a variable
 
         5. Null - (A) empty value
 
@@ -20,7 +20,7 @@ there are 7 primitive datatype-
 
         7. BigInt(ES2020) - larger integer than number type can hold
 
-JS programs is executed from top to bottom.
+//JS programs is executed from top to bottom.
 
 //console.log(typeof "jonas");// gives the type of variable
 */

@@ -7,5 +7,5 @@ console.log("lecture 008");//let ,const and var
  
 //let = (A) local blocked scoped
 
-//var = (A) function scoped
+//var = (A) function scoped or global scoped
 */
